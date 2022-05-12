@@ -26,7 +26,7 @@ I'm Ezequiel, a Senior Software Engineer with a full-stack profile of Laravel/No
 ### Contact me
 
 [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:emleonardelli@gmail.com)
-[![website](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](emleonardelli.dev)
+[![website](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://emleonardelli.dev)
 [![upwork](https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white)](https://www.upwork.com/freelancers/~014b9fcda04c738c5d)
 
 ### Top Languages
