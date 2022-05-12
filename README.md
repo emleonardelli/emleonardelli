@@ -23,14 +23,14 @@ I'm Ezequiel, a Senior Software Engineer with a full-stack profile of Laravel/No
 ![vuetify](https://img.shields.io/badge/Vuetify-1867C0?style=for-the-badge&logo=vuetify&logoColor=white)
 ![docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 
-### Contact me
+## Contact me
 
 [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:emleonardelli@gmail.com)
 [![website](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://emleonardelli.dev)
 [![upwork](https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white)](https://www.upwork.com/freelancers/~014b9fcda04c738c5d)
 
-### Top Languages
+## Top Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emleonardelli&hide=java&langs_count=3)
 
-### GitHub Stats
+## GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=emleonardelli)
